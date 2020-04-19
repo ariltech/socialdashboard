@@ -1,2 +1,0 @@
-# socialdashboard
-Created with CodeSandbox
